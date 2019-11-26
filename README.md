@@ -22,6 +22,27 @@
 
 ---
 
+## KubeCon'18 EU Presentations and Videos
+
+### Machine Learning & Data
+
+| Topic        | Presentation | Video | website |
+| ------------- |:----------:|:-----:|:-----:|
+| Real-time Vision Processing on Kubernetes: Working with Data Locality - Yisui Hu, Google | [Slides](https://schd.ws/hosted_files/kccna18/85/Real-time%20Vision%20Processing%20on%20Kubernetes.pdf) | [Video](https://youtube.com/watch?v=pFuHTmNsJ6s) |
+| Using Kubernetes to Offer Scalable Deep Learning on Alibaba Cloud - Kai Zhang & Yang Che, Alibaba | [Slides](https://schd.ws/hosted_files/kccna18/ce/Using%20Kubernetes%20to%20offer%20scalable%20deep%20learning%20on%20Alibaba%20Cloud%20-%20final.pdf) | [Video](https://youtube.com/watch?v=XMYuz_dM0jY) |
+| Scaling AI Inference Workloads with GPUs and Kubernetes - Renaud Gaubert & Ryan Olson, NVIDIA | [Slides](https://schd.ws/hosted_files/kccna18/5d/Kubecon%20US%202018.pdf) | [Video](https://youtube.com/watch?v=13p4sZRKtwE) |
+| Machine Learning Model Serving and Pipeline Using KNative - Animesh Singh & Tommy Li, IBM | [Slides] | [Video](https://www.youtube.com/watch?v=YpiPG8emKgg) |
+| Machine Learning as Code: and Kubernetes with Kubeflow - Jason " Jay" Smith, Google & David Aronchick | [Slides](https://schd.ws/hosted_files/kccna18/f5/External%20Kubecon%20NA%20%28Seattle%29%202018.pdf) | [Video](https://youtube.com/watch?v=VXrGp5er1ZE) |
+| Why Data Scientists Love Kubernetes - Sophie Watson & William Benton, Red Hat | [Slides](https://schd.ws/hosted_files/kccna18/dd/kubecon-2018-pdf.pdf) | [Video](https://www.youtube.com/watch?v=frQeK8xo9Ls) |
+| Natural Language Code Search for GitHub Using Kubeflow - Jeremy Lewi, Google & Hamel Husain, GitHub | [Slides](https://schd.ws/hosted_files/kccna18/f2/%5Bpublic%5D%20Kubecon%202018%20NACode%20Search%20Presentation.pdf) | [Video](https://youtube.com/watch?v=SF77UBvfTHU) |
+| Nezha: A Kubernetes Native Big Data Accelerator For Machine Learning - Huamin Chen, Red Hat & Yuan Zhou, Intel | [Slides]() | [Video](https://youtube.com/watch?v=Yck06qnfJVQ) |
+| Predictive Application Scaling with Prometheus and ML - Chris Dutra, Schireson | [Slides](https://schd.ws/hosted_files/kccna18/35/ProML-Scaling.pdf) | [Video](https://youtube.com/watch?v=xcK--dJn55g) |
+| Enterprise Machine Learning on K8s: Lessons Learned and the Road Ahead - Timothy Chen & Tristan Zajonc, Cloudera | [Slides] | [Video](https://www.youtube.com/watch?v=ZFn1OXG-4tM) |
+| Demystifying Data-Intensive Systems On Kubernetes - Alena Hall, Microsoft | [Slides](https://schd.ws/hosted_files/kccna18/d4/Demystifying%20Data-Intensive%20Systems%20on%20Kubernetes.pdf) | [Video](https://youtube.com/watch?v=KYYYLNGTcX8) |
+| Kafka on Kubernetes - From Evaluation to Production at Intuit - Shrinand Javadekar, Intuit | [Slides] | [Video](https://youtube.com/watch?v=1SBxxMzlLAc) |
+
+---
+
 ## KubeCon EU'19 Videos and Presentations 
 
 ### Machine Learning and Data
