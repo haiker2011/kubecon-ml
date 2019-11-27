@@ -75,18 +75,18 @@
 
 | Topic       |      Presentation     |  Video | website |
 | ------------- |:-------------:| -----: |  -----: |
-|Lightning Talk: Kuber-What-Es?! Misadventures in Building UIs for K8s-Based ML|[Slides]|[Video](https://www.youtube.com/watch?v=Vr9X_W0wS64&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=10&t=0s)| |
-|Lightning Talk: Sharing a GPU Among Multiple Containers|[Slides]|[Video](https://www.youtube.com/watch?v=VNZsooht3K8&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=7)||
+|Lightning Talk: Kuber-What-Es?! Misadventures in Building UIs for K8s-Based ML|[Slides](https://static.sched.com/hosted_files/kccncna19/1c/Kuber-what-es%202019.pdf)|[Video](https://www.youtube.com/watch?v=Vr9X_W0wS64&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=10&t=0s)| |
+|Lightning Talk: Sharing a GPU Among Multiple Containers|[Slides](https://static.sched.com/hosted_files/kccncna19/e1/McQuighan_Share_GPUs.pdf)|[Video](https://www.youtube.com/watch?v=VNZsooht3K8&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=7)||
 |Lightning Talk: Boosting Your kubectl Productivity|[Slides]|[Video](https://www.youtube.com/watch?v=vVAFctQP1Vg&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=11)||
-|KubeFlow’s Serverless Component: 10x Faster, a 1/10 of the Effort|[Slides]|[Video](https://www.youtube.com/watch?v=GmCpdRRFmxw&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=14&t=0s)||
-|Enabling Kubeflow with Enterprise-Grade Auth|[Slides]|[Video](https://www.youtube.com/watch?v=qyUyYLvmKHY&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=41&t=0s)||
-|Managing Apache Flink on Kubernetes|[Slides]|[Video](https://www.youtube.com/watch?v=ydb3TbK2r84&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=113&t=0s)||
-|Measuring and Optimizing Kubeflow Clusters at Lyft |[Slides]|[Video](https://www.youtube.com/watch?v=IKubDSIivR8&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=43&t=0s)||
-|Introducing KFServing: Serverless Model Serving on Kubernetes|[Slides]|[Video](https://www.youtube.com/watch?v=saMkA4fIOH8&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=83&t=0s)||
-|Kubeflow: Multi-Tenant, Self-Serve, Accelerated Platform for Practitioners|[Slides]|[Video](https://www.youtube.com/watch?v=KriEaW-Jm-g&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=205&t=0s)||
-|GPU as a Service Over K8s: Drive Productivity and Increase Utilization|[Slides]|[Video](https://www.youtube.com/watch?v=jSuecrUr2LA&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=228&t=0s)||
-|Building a Medical AI with Kubernetes and Kubeflow|[Slides](https://github.com/haiker2011/kubecon-ml/blob/master/ppt/kubecon-NA2019-ml/Building_Medical_AI_With_Kubernetes_Kubeflow_KubeCon.pdf)|[Video](https://www.youtube.com/watch?v=nD_GXaW_A-s&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=253&t=0s)||
-|Supercharge Kubeflow Performance on GPU Clusters|[Slides]|[Video](https://www.youtube.com/watch?v=UYhBaXzD0hA&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=255&t=0s)||
+|KubeFlow’s Serverless Component: 10x Faster, a 1/10 of the Effort|[Slides](https://static.sched.com/hosted_files/kccncna19/f1/Serverless%20Kubeflow%20Orit%20NM.pdf)|[Video](https://www.youtube.com/watch?v=GmCpdRRFmxw&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=14&t=0s)||
+|Enabling Kubeflow with Enterprise-Grade Auth|[Slides](https://static.sched.com/hosted_files/kccncna19/7f/Enabling%20Kubeflow%20with%20Enterprise%20Grade%20Auth%20for%20On-Premise%20Deployments.pptx)|[Video](https://www.youtube.com/watch?v=qyUyYLvmKHY&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=41&t=0s)||
+|Managing Apache Flink on Kubernetes|[Slides](https://static.sched.com/hosted_files/kccncna19/99/Managing%20Apache%20Flink%20on%20Kubernetes%20-%20FlinkK8sOperator%20%281%29.pdf)|[Video](https://www.youtube.com/watch?v=ydb3TbK2r84&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=113&t=0s)||
+|Measuring and Optimizing Kubeflow Clusters at Lyft |[Slides](https://static.sched.com/hosted_files/kccncna19/10/Kubecon%20San%20Diego%20%E2%80%94%20Measuring%20and%20Optimizing%20Kubernetes%20Usage%20at%20Lyft.pdf)|[Video](https://www.youtube.com/watch?v=IKubDSIivR8&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=43&t=0s)||
+|Introducing KFServing: Serverless Model Serving on Kubernetes|[Slides](https://static.sched.com/hosted_files/kccncna19/99/Introducing%20KFServing%20-%20Cloud%20Native%20Serverless%20Inferencing.pdf)|[Video](https://www.youtube.com/watch?v=saMkA4fIOH8&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=83&t=0s)||
+|Kubeflow: Multi-Tenant, Self-Serve, Accelerated Platform for Practitioners|[Slides](https://static.sched.com/hosted_files/kccncna19/b6/Kubeflow%20Multi-Tenant%2C%20Self-Serve%2C%20ML%20Platform.pdf)|[Video](https://www.youtube.com/watch?v=KriEaW-Jm-g&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=205&t=0s)||
+|GPU as a Service Over K8s: Drive Productivity and Increase Utilization|[Slides](https://static.sched.com/hosted_files/kccncna19/f2/GPU%20as%20a%20Service%20Yaron%20Haviv.pdf)|[Video](https://www.youtube.com/watch?v=jSuecrUr2LA&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=228&t=0s)||
+|Building a Medical AI with Kubernetes and Kubeflow|[Slides](https://static.sched.com/hosted_files/kccncna19/4f/Building_Medical_AI_With_Kubernetes_Kubeflow_KubeCon.pdf)|[Video](https://www.youtube.com/watch?v=nD_GXaW_A-s&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=253&t=0s)||
+|Supercharge Kubeflow Performance on GPU Clusters|[Slides](https://static.sched.com/hosted_files/kccncna19/f6/kubecon-kubeflow-distributed-ml.pdf)|[Video](https://www.youtube.com/watch?v=UYhBaXzD0hA&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=255&t=0s)||
 |Networking Optimizations for Multi-Node Deep Learning on Kubernetes|[Slides]|[Video](https://www.youtube.com/watch?v=CL71kbZ72iU&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=256&t=0s)||
 
 ---
