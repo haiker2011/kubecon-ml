@@ -85,7 +85,7 @@
 |Introducing KFServing: Serverless Model Serving on Kubernetes|[Slides]|[Video](https://www.youtube.com/watch?v=saMkA4fIOH8&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=83&t=0s)||
 |Kubeflow: Multi-Tenant, Self-Serve, Accelerated Platform for Practitioners|[Slides]|[Video](https://www.youtube.com/watch?v=KriEaW-Jm-g&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=205&t=0s)||
 |GPU as a Service Over K8s: Drive Productivity and Increase Utilization|[Slides]|[Video](https://www.youtube.com/watch?v=jSuecrUr2LA&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=228&t=0s)||
-|Building a Medical AI with Kubernetes and Kubeflow|[Slides]|[Video](https://www.youtube.com/watch?v=nD_GXaW_A-s&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=253&t=0s)||
+|Building a Medical AI with Kubernetes and Kubeflow|[Slides](https://github.com/haiker2011/kubecon-ml/blob/master/ppt/kubecon-NA2019-ml/Building_Medical_AI_With_Kubernetes_Kubeflow_KubeCon.pdf)|[Video](https://www.youtube.com/watch?v=nD_GXaW_A-s&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=253&t=0s)||
 |Supercharge Kubeflow Performance on GPU Clusters|[Slides]|[Video](https://www.youtube.com/watch?v=UYhBaXzD0hA&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=255&t=0s)||
 |Networking Optimizations for Multi-Node Deep Learning on Kubernetes|[Slides]|[Video](https://www.youtube.com/watch?v=CL71kbZ72iU&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien&index=256&t=0s)||
 
